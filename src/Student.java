@@ -7,7 +7,7 @@ import jakarta.persistence.*;
 
 @Entity
 @Table
-public class Student {  
+public class Student {    
     @Id
     @SequenceGenerator(
         name = "student_sequence",
