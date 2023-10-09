@@ -20,6 +20,10 @@ public class Student {
         generator = "student_sequence"
     )
     
+
+
+
+
     private int id;
     private String name;
     private String email;
